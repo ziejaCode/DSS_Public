@@ -1,0 +1,32 @@
+{
+    "id": "C298A110",
+    "path": "~/GitHub/DSS_Public/DSS_R/README.Rmd",
+    "project_path": "DSS_R/README.Rmd",
+    "type": "r_markdown",
+    "hash": "4109642033",
+    "contents": "",
+    "dirty": false,
+    "created": 1657258190871.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "602,32",
+        "scrollLine": "586",
+        "rmdVisualMode": "false",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "2377:80.90908813476562",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "0",
+        "docOutlineSize": "337"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1658155599,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1658155599725,
+    "read_only": false,
+    "read_only_alternatives": []
+}
