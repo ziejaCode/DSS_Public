@@ -20,7 +20,7 @@ path_user <- normalizePath(Sys.getenv('PATH_DSS'), winslash = '/')
 path_repo <- normalizePath(Sys.getenv('PATH_DSS_Repo'), winslash = '/')
 
 #path with the setup info
-path_setup <- file.path(path_repo, 'DSS_Bot', 'DSS_Setup')
+path_setup <- file.path(path_repo, 'DSS_Public', 'DSS_Setup')
 #settings from options
 ncpu <- as.numeric(Sys.getenv('OPT_AML_NCPU'))
 
