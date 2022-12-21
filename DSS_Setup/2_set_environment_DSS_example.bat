@@ -33,8 +33,8 @@ setx OPT_UTIL_Clean TRUE
 
 :: User Paths
 setx PATH_DSS_Repo "%USERPROFILE%\Documents\GitHub"
-setx PATH_DSS "%PATH_DSS_Repo%\DSS_Bot\DSS_R"
-setx PATH_DSS_Bot "%PATH_DSS_Repo%\DSS_Bot\DSS_Bots\ACTIVE"
+setx PATH_DSS "%PATH_DSS_Repo%\DSS_Public\DSS_R"
+setx PATH_DSS_Bot "%PATH_DSS_Repo%\DSS_Public\DSS_Bots\ACTIVE"
 
 setx PATH_REXE "C:\Program Files\R\R-4.2.0\bin\Rscript.exe"
 setx PATH_STUP "%USERPROFILE%"\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
