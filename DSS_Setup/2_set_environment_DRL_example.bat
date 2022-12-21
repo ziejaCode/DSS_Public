@@ -37,7 +37,7 @@ setx PATH_DSS "%PATH_DSS_Repo%\DSS_Bot\DSS_R"
 setx PATH_DSS_Bot "%PATH_DSS_Repo%\DSS_Bot\DSS_Bots\ACTIVE"
 
 setx PATH_REXE "C:\Program Files\R\R-4.2.0\bin\Rscript.exe"
-setx PATH_STUP "%USERPROFILE%"\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+setx PATH_STUP "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
 setx PATH_T1_T "C:\Program Files (x86)\FxPro - Terminal1"
 setx PATH_T1 "%PATH_T1_T%\MQL4\Files"
